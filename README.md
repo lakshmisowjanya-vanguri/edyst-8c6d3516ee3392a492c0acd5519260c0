@@ -1,1 +1,2 @@
-# edyst-8c6d3516ee3392a492c0acd5519260c0
+# Placement Bootcamp 2017
+Repository Maintainer: sowjanya.vanguri123@gmail.com
